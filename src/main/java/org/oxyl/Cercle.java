@@ -40,3 +40,4 @@ public class Cercle{
     }
 }
 /* C'est un cercle */
+/* stop */
