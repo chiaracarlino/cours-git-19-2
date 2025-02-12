@@ -69,3 +69,4 @@ public class Point {
         y = Math.round((rotatedY + centerY) * 100.0) / 100.0;
     }
 }
+/* petit point */
