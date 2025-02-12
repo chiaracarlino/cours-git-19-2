@@ -39,3 +39,4 @@ public class Cercle{
     public void tourner(double theta) {
     }
 }
+/* C'est un cercle */
