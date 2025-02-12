@@ -71,4 +71,8 @@ public class Point {
 }
 /* petit point */
 /* re */
+<<<<<<< Updated upstream
 /* fdhvh */
+=======
+/* gzetdfaeztyf */
+>>>>>>> Stashed changes
