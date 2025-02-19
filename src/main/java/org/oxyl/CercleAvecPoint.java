@@ -35,5 +35,3 @@ public class CercleAvecPoint extends AUnCentre implements Figure{
     public void tourner(double theta) {
     }
 }
-/* hdcuegfu */
-/* ok */
