@@ -49,4 +49,3 @@ public class Rectangle {
         angle += theta;
     }
 }
-/* trop bien */
