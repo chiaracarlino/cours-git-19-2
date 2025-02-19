@@ -17,5 +17,4 @@ public class AUnCentre {
 }
 
 
-/* ceci est la classe mère */
-/* bonjour */
+/*ha oui*/
